@@ -1,5 +1,8 @@
-Hi welcome, here i am going to teach front-end development.
-We can start front-end with below skills.
+# Naveen's Portfolio
+
+Hi welcome, here i am learning front-end development.
+
+i'm going to learn below front-end skills.
 1. Javascript
 1. HTML
 2. CSS
